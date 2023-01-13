@@ -8,6 +8,11 @@ h1
   font-size: 20px;
 }
 
+div.body-text
+{
+  width: 50%;
+}
+
 p
 {
   font-size: 12px;
